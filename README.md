@@ -36,7 +36,7 @@ It provides tools for AI models to safely and automatically fetch your actual ti
 
 ## Configuring AI Assistants (e.g., Claude Desktop)
 
-To use this with Claude Desktop, add the following to your `claude_desktop_config.json` (typically located at `~/Library/Application Support/Claude/claude_desktop_config.json` on macOS):
+To use this with Claude Desktop, add the following to your `claude_desktop_config.json` (settings -> developer -> edit config):
 
 ```json
 {
