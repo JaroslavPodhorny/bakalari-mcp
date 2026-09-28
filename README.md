@@ -1,6 +1,6 @@
 # Bakaláři MCP Server
 
-This is an [MCP (Model Context Protocol)](https://modelcontextprotocol.io) server that allows AI assistants (like Claude Desktop) to connect to the [Bakaláři](https://bakalari.cz/) school information system. 
+This is an [MCP (Model Context Protocol)](https://modelcontextprotocol.io) server made by antigravity that allows AI assistants (like Claude Desktop) to connect to the [Bakaláři](https://bakalari.cz/) school information system. 
 
 It provides tools for AI models to safely and automatically fetch your actual timetable, grades, homework, and Komens messages directly from your school's API.
 
